@@ -5,7 +5,7 @@ The MSCNN-CBAM-LSTM is a hybrid neural network model specifically designed for p
 
 
 <p align="center">
-  <img width="750" src="imgs/TSMC-Net.png">
+  <img width="750" src="MsCNN-CBAM-LSTM model/img/TSMC-Net.png">
 </p>
 
 Structure of an intelligent nucleobases discrimination system based on MsCNNN-CBAM-LSTM.
